@@ -6,6 +6,12 @@ Question:
 
   Serverless ?
 
+  Briques ?
+
+  No train test split ok ?
+
+  Custom metric ok ?
+
 -----------------------------------
 
   Parler des Limites du jeu de données: On recommande les articles qui génèrent du clic par leur titre et non en fonction de la qualité du contenu
