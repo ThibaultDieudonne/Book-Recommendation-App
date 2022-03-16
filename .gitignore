@@ -1,3 +1,7 @@
 /.ipynb_checkpoints
 /data
 *.pickle
+/function/.venv
+.vscode
+/bookshelf
+/functionOC

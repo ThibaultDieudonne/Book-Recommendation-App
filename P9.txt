@@ -1,31 +1,17 @@
 Question:
 
-  Comment gérer les mises à jours ? => rerun from scratch
-
-  Tester les scripts d'entraînement ?
-
-  Serverless ?
-
-  Briques ?
-
-  No train test split ok ?
-
-  Custom metric ok ?
-
------------------------------------
-
-  Parler des Limites du jeu de données: On recommande les articles qui génèrent du clic par leur titre et non en fonction de la qualité du contenu
-
-  Prendre en compte la longueur des articles ?
-
-  Deeplearning ?
-
-  Prendre en compte nombre de clics individuels par article
-
-  Utiliser categories à la place d'articles ok ? (seulement 6 clicks par users en moyenne)
-
-  Rating ?
+  tests ?
 
 Doc:
 
   https://www.kaggle.com/tiramysu/how-to-build-recommendation-engine
+
+  https://github.com/microsoft/recommenders
+
+  https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/Ing%C3%A9nieur_IA_P9/Mode+ope%CC%81ratoire+test+Azure+function_V1.1.docx.pdf
+
+URLs:
+
+  http://localhost:7071/api/HttpTrigger1
+
+  https://oc-p9.azurewebsites.net/api/httptrigger1
