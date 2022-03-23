@@ -1,8 +1,24 @@
+Todo:
+
+  Comment code
+
+  Schéma
+
+  Pres
+
+  Texte pres
+
+
 Question:
 
   tests ?
+  
+  Métrique ? (embedding donne très bons résultats)
+
 
 Doc:
+
+  https://www.kaggle.com/devmaxime/content-based-recommendation-system
 
   https://www.kaggle.com/tiramysu/how-to-build-recommendation-engine
 
