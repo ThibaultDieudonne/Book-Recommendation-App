@@ -5,4 +5,4 @@
 .vscode
 /bookshelf
 /functionOC
-cosine_similarities.npy
+*.npy
