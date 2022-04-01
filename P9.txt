@@ -1,20 +1,8 @@
 Todo:
 
-  Comment code
-
-  Schéma
-
   Pres
 
   Texte pres
-
-
-Question:
-
-  tests ?
-  
-  Métrique ? (embedding donne très bons résultats)
-
 
 Doc:
 
